@@ -1,0 +1,43 @@
+Exo 1
+
+
+1. A                                                      V
+2. MFGNOPQRSTUVL                                          V
+3. a) D   b) K   c) D   d) B                              V
+4. a) IJKL   b) BCD   c) 0   d) 0   e) NO                 V
+5.                                                        V
+            C
+            |
+            |
+            H
+          /   \
+         /     \
+        N       O
+
+6. 22                                                     V
+7. 3                                                      V
+8. 2                                                      V
+
+
+Exo 2
+                                     HTML
+                                    /    \
+                                   /      \
+                                head       body
+                               /  |        |   \
+                              /   |        |    \
+                          meta  title  header    section
+                                      /  |      |  |  | \
+                                     /   |      |  |  |  \
+                                    h1  img    h2  p  h2  p
+
+
+
+
+
+
+
+Exo 3
+
+1. 2 + 2 + 5 + 2 + 2 + 1 + 5 + 4 = 23 str donc 23 tests
+
